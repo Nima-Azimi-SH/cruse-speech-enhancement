@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+.venv/
+venv/
+*.egg-info/
+
+# Data & audio (not tracked -- see README for how to obtain/point to your own)
+Signals/
+*.wav
+
+# Checkpoints (large binaries -- consider Git LFS or a GitHub Release asset instead)
+checkpoints/*.pth
+!checkpoints/.gitkeep
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
