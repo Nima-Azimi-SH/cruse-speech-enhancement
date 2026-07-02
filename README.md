@@ -71,7 +71,7 @@ STFT: 16 kHz, 256-point FFT (129 bins), 16 ms square-root-Hann window, 50% overl
 ## Setup
 
 ```bash
-git clone https://github.com/<your-username>/cruse-speech-enhancement.git
+git clone https://github.com/Nima-Azimi-SH/cruse-speech-enhancement.git
 cd cruse-speech-enhancement
 pip install -r requirements.txt
 ```
